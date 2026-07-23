@@ -1,0 +1,35 @@
+{
+  "title": "Message of the Day",
+  "subtitle": "Welcome to Fall 2024 🐻",
+  "profileImage": "https://d3gcr65qy8nmmj.cloudfront.net/taro_kumakabe.jpg",
+  "author": "Taro Kumakabe",
+  "updatedAt": "2022-12-12T06:57:08.630Z",
+  "version": "2",
+  "content": [
+    {
+      "text": "This is our news page, if you would like to get promoted, feel free to reach out to us by email: rutgersmobileapp@gmail.com\n\n"
+    },
+    {
+      "title": "Twitch",
+      "text": "One of our developers has her own Twitch channel! Please feel to check it out, her Twitch name is XuTheBunno. She streams on Tuesday and Thursday at 10:30pm",
+      "image": "https://d3gcr65qy8nmmj.cloudfront.net/xuthebunno.jpeg"
+    },
+    {
+      "title": "What’s New",
+      "text": "Now you can click on dining hall foods to get their:\n☯︎ Calories\n☯︎ Carbs, fat and protein amounts\n☯︎ Portion sizes\n☯︎ Daily value breakdowns\n☯︎ Ingredients\nHappy eating!\n"
+    },
+    {
+      "title": "Contribute",
+      "text": "Want to get involved? Email us at rutgersmobileapp@gmail.com. Please include a short description of your work and your resume. We can’t wait to see what you have to offer!",
+      "image": "https://d3gcr65qy8nmmj.cloudfront.net/gitlab_help.jpg"
+    },
+    {
+      "title": "Feedback",
+      "text": "Have questions, comments, concerns? Let us know by sending us an email. If you love our app, please leave us a review!"
+    },
+    {
+      "title": "Want to Get Featured?",
+      "text": "Send your epic quotes, ideas, and content to feature on the Message of the Day screen to our email, rutgersmobileapp@gmail.com"
+    }
+  ]
+}
